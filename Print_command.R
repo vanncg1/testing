@@ -6,4 +6,5 @@ print("This file was created in RStudio")
 
 print("And now it lives on GitHub")
 
-##in the git tab of the environment quad, check script and select commit.  leave an informative commit comment, click commit, close the small window and clish push.  
+##in the git tab of the environment quad, check script and select commit.  
+##leave an informative commit comment, click commit, close the small window and click push.  
